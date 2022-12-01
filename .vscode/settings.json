@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.java": "java",
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "map": "cpp",
+        "ostream": "cpp",
+        "ios": "cpp",
+        "xiosbase": "cpp",
+        "xstring": "cpp",
+        "limits": "cpp"
+    }
+}
